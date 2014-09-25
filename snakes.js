@@ -1,4 +1,4 @@
-dhghg$(document).ready(function(){
+$(document).ready(function(){
 	//var p = 0;
 	var a = 0;
 	var b= 0;
